@@ -11,13 +11,6 @@ This repository contains my **assessment submissions** and **supporting evidence
 
 ---
 
-## Links
-
-- **Portfolio / Portfolium:** [ADD LINK]
-- **LinkedIn (optional):** [ADD LINK]
-
----
-
 ## Quick Navigation
 
 - **A1 — Professional Learning Plan + Dream Job Skills Audit + Job Ads:** [`/A1-PLP/`](./A1-PLP)
