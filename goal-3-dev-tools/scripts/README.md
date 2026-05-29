@@ -1,15 +1,19 @@
-# Goal 3 — Software Development Tools (Git/GitHub + documentation)
+# Scripts (Goal 3)
 
-This folder provides evidence for **Goal 3** from my Professional Learning Plan: demonstrating foundational skills in software development tools and professional documentation.
+These scripts support my evidence workflow and demonstrate basic automation/tooling practice.
 
-## What this goal demonstrates
-- GitHub repo structure and version control (commits, meaningful messages)
-- Documentation standards (READMEs, clear navigation, reproducible instructions)
-- Basic scripting/tooling documentation (how to run, assumptions, outputs)
+## Bash script
+- File: `tool.sh`
+- Purpose: Collect basic system/network information or automate a small task
+- How to run:
+  1) Open terminal in the folder
+  2) `chmod +x tool.sh`
+  3) `./tool.sh`
 
-## Evidence
-- Scripts + run instructions: `./scripts/`
-- Evidence of commits: GitHub “Commits” history for this repository
-
-## Notes
-This goal supports professional practice by ensuring work is **reproducible, auditable, and easy to review** (important for both assessments and industry workflows).
+## PowerShell script
+- File: `tool.ps1`
+- Purpose: Collect basic system/process information or automate a small task
+- How to run:
+  1) Open PowerShell in the folder
+  2) Run: `.\tool.ps1`
+  3) If blocked: `Set-ExecutionPolicy -Scope Process Bypass` (temporary for current session)
