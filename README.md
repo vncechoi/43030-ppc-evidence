@@ -24,8 +24,8 @@ This repository contains my **assessment submissions** and **supporting evidence
 - **A2 — Ethical Dilemma Email:** [`/A2-Ethical-Dilemma/`](./A2-Ethical-Dilemma)
 - **A3 — Professional Learning Report (final reflection + evidence mapping):** [`/A3-Professional-Learning-Report/`](./A3-Professional-Learning-Report)
 
-- **Goal 1 — Ethics + Indigenous Professional Capability evidence:** [`/Goal1-Ethics-Indigenous/`](./goal-1-ethics-indigenous)
-- **Goal 3 — Software Development Tools evidence:** [`/Goal3-DevTools/`](./goal-3-dev-tools)
+- **Goal 1 — Ethics + Indigenous Professional Capability evidence:** [`/goal-1-ethics-indigenous/`](./goal-1-ethics-indigenous)
+- **Goal 3 — Software Development Tools evidence:** [`/goal-3-dev-tools/`](./goal-3-dev-tools)
 - **Goal 4 — SOC-100 evidence (Networking / Win Enterprise / HelpDesk / Home Lab):** [`/SOC100/`](./SOC100)
 
 ---
@@ -34,9 +34,9 @@ This repository contains my **assessment submissions** and **supporting evidence
 
 | PLP Goal | What I planned (A1) | Evidence in this repo |
 |---|---|---|
-| **Goal 1** Ethics + Indigenous Professional Capability | Ethics modules + Indigenous module + reflection/checklist | [`Goal1-Ethics-Indigenous`](./goal-1-ethics-indigenous) |
+| **Goal 1** Ethics + Indigenous Professional Capability | Ethics modules + Indigenous module + reflection/checklist | [`goal-1-ethics-indigenous`](./goal-1-ethics-indigenous) |
 | **Goal 2** Cybersecurity foundations | Noted as addressed through Cybersecurity degree/major; further development captured in Goal 4 | SOC-100 artifacts in [`SOC100`](./SOC100) |
-| **Goal 3** Software Development Tools | Git/GitHub workflow + documented scripts + documentation quality | [`Goal3-DevTools`](./goal-3-dev-tools) |
+| **Goal 3** Software Development Tools | Git/GitHub workflow + documented scripts + documentation quality | [`goal-3-dev-tools`](./goal-3-dev-tools) |
 | **Goal 4** Professional Goal (SOC readiness) | SOC-100 Networking + Windows Enterprise + HelpDesk + Portfolio/Home Lab + consolidation outputs | [`SOC100`](./SOC100) |
 | **Goal 5** | Not required (Goal 4 meets hour requirement) | N/A |
 
@@ -45,7 +45,7 @@ This repository contains my **assessment submissions** and **supporting evidence
 ## Required Outputs (from my A1 commitments)
 
 ### Goal 4 — SOC readiness (measurable outputs)
-Stored in: [`/SOC100/Writeups/`](./SOC100/writeups) and [`/SOC100/screenshots/`](./SOC100/screenshots)
+Stored in: [`/SOC100/writeups/`](./SOC100/writeups) and [`/SOC100/screenshots/`](./SOC100/screenshots)
 
 - **2 investigation writeups** (1–2 pages each)  
   *Format:* summary → evidence checked → findings → recommended escalation/next steps  
@@ -56,7 +56,7 @@ Stored in: [`/SOC100/Writeups/`](./SOC100/writeups) and [`/SOC100/screenshots/`]
 - **Screenshots + short lab summaries** stored in GitHub
 
 ### Goal 3 — Software Development Tools (measurable outputs)
-Stored in: [`/Goal3-DevTools/`](./goal-3-dev-tools)
+Stored in: [`/goal-3-dev-tools/`](./goal-3-dev-tools)
 
 - Consistent repo structure + README navigation
 - **Minimum 12 meaningful commits** across the session
