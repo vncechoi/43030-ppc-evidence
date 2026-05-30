@@ -33,6 +33,12 @@ During analysis of a provided network capture, I identified a suspicious HTTP do
   → Provides a direct link between the suspicious download and a user account for incident scoping.
 - **Security implication:** If executed, the file could lead to endpoint compromise, credential theft, lateral movement, or data loss depending on payload behaviour and privileges.
 
+### Artifact validation (hash + VT)
+- Exported object: `40group.tiff` (contained PE indicators: `MZ` + “This program cannot be run in DOS mode”)
+- SHA-256: `8d5d36c8fbb0a9c81b145aa40c1f3475702fb0b5f9e08e0577bdc405087e635`
+- VirusTotal detection: **61/71** vendors flagged as malicious
+- VT file label/name: `Santo Maris Oia.exe` (380 KB)
+
 ## Recommended escalation / next steps
 1. **Escalate as a suspected malware download** (high priority) with attached indicators:
    - Filename: `40group.tiff`
